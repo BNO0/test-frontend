@@ -9,7 +9,8 @@ import axios from 'axios';
 //test
 const TEST = '/test';
 
-const API_BASE_URL = 'http://localhost:8080';
+// const API_BASE_URL = 'http://localhost:8080';
+const API_BASE_URL = "Sep-test-back-env.eba-tqxwd38e.us-east-2.elasticbeanstalk.com";
 const API = '/api';
 // auth
 const AUTH = '/auth';
